@@ -9,7 +9,6 @@ public class _02_Datatypes {
         System.out.println(3.14);
         System.out.println(true); /*불린형*/
         System.out.println(false);
-
         System.out.println(123 + 234);
     }
 }
