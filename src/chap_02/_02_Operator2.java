@@ -12,10 +12,10 @@ public class _02_Operator2 {
         num = num * 2;
         System.out.println(num);
 
-        num = num / 2;
+        num = num / 3;
         System.out.println(num);
 
-        num = num % 2;
+        num = num % 3;
         System.out.println(num);
 
         //복합 대입 연산자

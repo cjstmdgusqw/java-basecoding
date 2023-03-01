@@ -35,6 +35,7 @@ public class _01_Array {
         i[0] = 1;
         i[1] = 2;
         i[2] = 3;
+        System.out.println(i);
         double[] d = new double[] {10.0, 11.2, 13.5};
         boolean[] b = {true, true, false};
 
